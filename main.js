@@ -104,6 +104,7 @@ const findInvalidCards = (cards) => {
 
 // console.log(idInvalidCardCompanies(batch));
 console.log(idInvalidCardCompanies([invalid2]));
+console.log(idInvalidCardCompanies([invalid1]));
 
 
 
